@@ -1,0 +1,12 @@
+.chart-container {
+  background-image: linear-gradient(to right, #cedef8, #effaff);
+  height: 500px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px 10px 10px 10px;
+  font-family: "Roboto";
+  margin: 80px;
+  padding: 10px 10px 10px 10px;
+}
